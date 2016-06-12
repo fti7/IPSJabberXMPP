@@ -1,0 +1,16 @@
+{
+	"elements":
+	[
+		{ "name": "server", "type": "ValidationTextBox", "caption": "Server" },
+		{ "name": "username", "type": "ValidationTextBox", "caption": "Username" },
+		{ "name": "password", "type": "PasswordTextBox", "caption": "Password" },
+		{ "name": "resource", "type": "ValidationTextBox", "caption": "Resource" },
+		{ "name": "ssl_verifypeer", "type": "CheckBox", "caption": "Verify SSL Certificate" }
+	],
+	"actions":
+	[
+		{ "name": "test_jid", "type": "ValidationTextBox", "caption": "Jabber ID" },
+		{ "name": "test_msg", "type": "ValidationTextBox", "caption": "Test Message" },
+		{ "type": "Button", "label": "Update", "onClick": "JabberXMPP_SendMessage($id, $test_jid, $test_msg, True);" }
+	]
+}

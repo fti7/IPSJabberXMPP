@@ -1,0 +1,14 @@
+{
+	"id": "{100DD043-1292-481B-976E-15B94A5D8CA5}",
+	"name": "JabberXMPP",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"JabberXMPP"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "JabberXMPP"
+}
