@@ -10,5 +10,5 @@ JabberXMPP_SendMessage(34079 /*[Devices\JabberXMPP1]*/, "test@jabber.ccc.de", "T
 
 
 # XMPP Library
-This Modules uses an modificated PHP XMPP Library from Nathan Fritz / Stephan Wentz / Stephan Wentz
+This Module is using an modificated PHP XMPP Library from Nathan Fritz / Stephan Wentz / Stephan Wentz
 See: https://github.com/fti7/xmpphp
